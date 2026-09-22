@@ -1,0 +1,6 @@
+{
+  "name": "FoodSafe",
+  "description": "Controlled public to official food safety pipeline with dual-ended verification of citizen complaints, FSSAI regulatory compliance, and official enforcement rights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
